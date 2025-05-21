@@ -215,9 +215,9 @@ export function BirthdayCakeGame() {
             >
               <div className="relative mx-auto w-full max-w-[220px]">
                 <img
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cake-removebg-preview-SRpbi16woHQrsFwK0A6HXLzPols16d.png"
+                  src="/images/cake.png"
                   alt="Birthday Cake with 20 candles"
-                  className="h-auto w-full object-contain"
+                  className="w-[150px] h-auto object-contain"
                 />
 
                 {/* Decorative sparkles */}

@@ -13,7 +13,6 @@ const baloo = Baloo_2({
 export const metadata: Metadata = {
   title: "Happy 20th Birthday Mayly!",
   description: "A special birthday greeting for Mayly Winarty Dewi",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

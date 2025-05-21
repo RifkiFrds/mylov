@@ -17,8 +17,6 @@ import { AnimatedBackground } from "@/components/animated-background"
 import { Footer } from "@/components/footer"
 import { LoveReasons } from "@/components/love-reasons"
 import { MusicPlayer } from "@/components/music-player"
-
-// Import the new components
 import { BirthdayCakeGame } from "@/components/birthday-cake-game"
 import { PetalPicker } from "@/components/petal-picker"
 import { HeartTarot } from "@/components/heart-tarot"
